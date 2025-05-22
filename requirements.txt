@@ -1,0 +1,5 @@
+discord.py>=2.0.0
+tradingview_ta
+Flask
+PyNaCl
+python-dotenv
