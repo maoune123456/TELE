@@ -1,5 +1,6 @@
-python-telegram-bot==22.0
+python-telegram-bot[job-queue]>=20.0
 tradingview-ta==3.3.0
 Flask==3.1.0
 python-dotenv==1.1.0
 nest_asyncio==1.5.6
+
