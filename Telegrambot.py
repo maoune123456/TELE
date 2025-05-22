@@ -34,8 +34,8 @@ logger = logging.getLogger(__name__)
 TOKEN = os.getenv("TELEGRAM_TOKEN")
 
 # --- إعدادات القناة والدعوات ---
-CHANNEL_USERNAME = "@NADEEB102"  # ضع اسم القناة بصيغة @username
-REFERRAL_BASE = "https://t.me/Nadeeb_Alert_bot?start="  # رابط الدعوة (يُضاف إليه معرف المستخدم)
+CHANNEL_USERNAME = "@Hermes_133"  # ضع اسم القناة بصيغة @username
+REFERRAL_BASE = "https://t.me/Hermes_133_Alert_bot?start="  # رابط الدعوة (يُضاف إليه معرف المستخدم)
 REQUIRED_INVITES = 0  # عدد الدعوات المطلوبة (استخدم 0 للسماح بالاستخدام الفوري)
 
 # القواميس لتسجيل بيانات الدعوات في الذاكرة:
